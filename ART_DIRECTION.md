@@ -12,6 +12,8 @@ A photograph records what was there. A memory keeps what mattered. This visual l
 
 The goal is not perfection. The goal is presence.
 
+The final work is a poster, not a painted copy of a photograph. The photograph is raw material: a small truth is extracted, isolated, and recomposed until even an imperfect snapshot can become intentional and memorable.
+
 ## Philosophy
 
 Every image begins with a different question. Not “What did this place look like?” but “What stayed with me after I left?”
@@ -28,6 +30,8 @@ Quiet does not mean empty of feeling. It means the feeling has room to arrive.
 
 Two languages meet on every page.
 
+The page should read first as a minimal editorial poster and only then reveal the photograph from which it came. Scale, alignment, cropping, paper, and text are as important as the depicted subject.
+
 ### Quiet watercolour
 
 Large, simplified colour shapes; soft transitions; muted natural hues; visible paper; and gentle irregularity. The materials should feel touched by a hand rather than polished by a machine.
@@ -36,6 +40,8 @@ Large, simplified colour shapes; soft transitions; muted natural hues; visible p
 
 Small handwritten notes, anonymous figures, leaves, birds, flowers, travel objects, and modest doodles may accompany the painted scene. They are not decoration. They are the incidental details through which memory becomes personal.
 
+Hand-drawn contours and one short handwritten line are signature elements. They should remain visible in the final work rather than disappearing behind a complete painted scene.
+
 ## Composition
 
 Leave room to breathe. Empty space is not unfinished; it is an active part of the artwork.
@@ -43,6 +49,8 @@ Leave room to breathe. Empty space is not unfinished; it is an active part of th
 The principal scene should feel settled on the page rather than stretched to fill it. Asymmetry, margins, and unpainted paper create rhythm. Nothing should feel crowded or overly arranged.
 
 Negative space should also exist within the scene. Background detail may soften, dissolve, or remain unpainted so the eye can rest. This is not an empty border placed around a reduced photograph; it is a deliberate redistribution of visual weight.
+
+The original framing is not sacred. A subject may be isolated, enlarged, shifted, cropped, or partially omitted. Recomposition is what turns source material into a poster.
 
 ## The visual highlight
 
