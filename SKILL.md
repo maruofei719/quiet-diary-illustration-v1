@@ -1,146 +1,131 @@
 ---
 name: quiet-diary-illustration-v1
-description: Transform an input photograph into a restrained, handmade watercolor-and-pencil diary illustration while preserving its recognisable subject, emotional focus, framing, and aspect ratio. Use for travel, architecture, landscape, street, portrait, café, museum, garden, temple, daily-life, or object photographs when the user asks for the Quiet Diary Illustration style, a quiet travel-notebook image, or a nostalgic sketchbook interpretation.
+description: Recompose any input photograph—even an ordinary, flawed, blurred, badly framed, or visually busy snapshot—into an elevated minimal editorial poster with generous paper space, selective watercolor, visible hand-drawn linework, and integrated handwritten text. Use for travel, architecture, landscape, street, portrait, café, museum, garden, temple, daily-life, or object photographs when the user asks for Quiet Diary Illustration, a quiet handmade poster, a minimal travel print, or a refined notebook-poster interpretation rather than a painted copy of the photo.
 ---
 
 # Quiet Diary Illustration
 
-Transform a source photograph into one page from a quiet personal notebook. Preserve what makes the memory recognisable; simplify everything else.
+Turn a photograph into a designed poster, not an illustrated photograph. Treat the source as raw material: extract what is worth keeping, discard the rest, and rebuild the composition on paper.
+
+## Non-negotiable outcome
+
+The result must read first as an elevated minimal editorial poster and second as a memory derived from the source.
+
+It must include, unless the user explicitly opts out:
+
+- one isolated visual motif from the photograph
+- generous warm-paper negative space
+- visible hand-drawn linework
+- selective watercolor or gouache shapes
+- one short handwritten English line integrated into the layout
+
+If the result still resembles a full-frame photo with a watercolor filter, recompose it.
 
 ## Workflow
 
-1. Inspect the source before generating.
-2. Identify one primary visual highlight: the detail, gesture, light, colour relationship, or landmark that makes the photograph worth remembering.
-3. Identify the main subject, framing, aspect ratio, light direction, dominant shapes, and details essential to recognition.
-4. Choose one restrained palette and one handwriting personality.
-5. Translate the scene using the rules below, giving the highlight the clearest hierarchy.
-6. Add diary elements only when they support the memory.
-7. Check the finished image against the quality checklist.
+1. Inspect the source without judging its photographic quality.
+2. Find one usable motif: a silhouette, gesture, roofline, window, shadow, colour patch, object, plant, face direction, or spatial relationship.
+3. Ignore blur, noise, awkward framing, clutter, or poor exposure unless one of them creates an interesting shape.
+4. Detach the motif from the original background and simplify it into two to five large shapes plus essential hand-drawn contours.
+5. Recompose the motif freely on a warm-paper poster canvas.
+6. Add one handwritten line and, only if useful, one tiny diary mark.
+7. Reject and revise any output that looks like a painted photograph rather than a designed poster.
 
-If no source image is available, ask for one. If the user explicitly requests a scene from description alone, compose it using the same visual system.
+If no source image is available, ask for one. If the user explicitly requests a scene from description alone, construct it with the same poster system.
 
-## Preserve
+## Use the photograph as source material
 
-- Keep the original aspect ratio and orientation.
-- Keep the source framing unless the user requests a crop or reframing.
-- Retain the subject's silhouette, spatial relationships, distinctive landmarks, and emotional atmosphere.
-- Preserve the direction and softness of the source light.
-- Keep people recognisable through pose, clothing shape, or placement, not facial detail.
+- Preserve the emotional clue and recognisable identity of the chosen motif.
+- Preserve the source aspect ratio by default, but do not preserve the original framing or full scene.
+- Crop, enlarge, isolate, shift, overlap, or partially omit the motif to improve the poster.
+- Remove most background information.
+- Do not reproduce every object, surface, window, person, or piece of scenery.
+- Let a poor photograph become a strong poster through selection, not restoration.
 
-## Simplify
+## Build a poster composition
 
-- Organise the image around one primary visual highlight; allow at most one secondary supporting detail.
-- Give the highlight the clearest silhouette, richest material variation, or strongest local contrast without making it loud.
-- Reduce, fade, merge, or leave unpainted anything that competes with the highlight.
-- Reduce architecture to silhouette, roofline, rhythm, and major structural features.
-- Merge repeated windows, ornaments, foliage, and background clutter into calm shapes.
-- Paint trees as masses; avoid individually rendered leaves.
-- Render clouds and water as soft texture and broad tonal movement.
-- Remove detail before removing atmosphere.
-- Avoid inventing prominent objects or landmarks absent from the source.
+- Use one dominant motif and at most one secondary micro-element.
+- Let the motif occupy roughly 20–35% of the canvas; exceed 40% only when a bold crop improves the design.
+- Keep roughly 65–80% of the canvas visually calm.
+- Place the motif off-centre or use an intentional cropped edge; avoid a centred postcard composition.
+- Create tension through scale, asymmetry, alignment, and distance between image and text.
+- Allow painted shapes to end abruptly, fade into paper, or remain incomplete.
+- Keep negative space inside the composition, not as a decorative white frame around a miniature full photograph.
 
-## Compose
+## Flatten photographic depth
 
-- Let the principal painted subject occupy roughly 30–40% of the page when the source permits.
-- Keep roughly 60–70% visually calm; treat negative space as content.
-- Leave a natural margin or quiet area for handwriting.
-- Maintain asymmetrical, unforced balance.
-- Never crowd the image merely to fill the canvas.
-- Create negative space by selectively fading edges, omitting low-value background detail, and allowing warm paper to remain visible within the scene—not by adding an unrelated blank border.
-- Preserve the original aspect ratio while redistributing visual emphasis toward the photograph's highlight.
+- Convert depth into overlapping flat shapes, open paper, and selective contour lines.
+- Suppress photorealistic perspective detail, lens blur, bokeh, cinematic depth of field, HDR light, and photographic gradients.
+- Use shadow only as one quiet graphic shape.
+- Keep local contrast near the chosen motif; soften everything else.
+- Never render the entire background with equal clarity.
 
-These percentages are guidance, not a reason to distort a tightly framed source. When the photograph is visually dense, simplify more aggressively instead of shrinking every object into equal detail.
+## Make hand drawing visible
 
-## Keep the result elevated and minimal
+Hand-drawn marks are required. Use them to interpret rather than trace.
 
-- Prefer one clear idea over several attractive details.
-- Use a limited palette of three to five dominant hues.
-- Keep contrast concentrated near the visual highlight; let surrounding areas remain soft and low-information.
-- Use fewer marks, cleaner shape relationships, and deliberate intervals of untouched paper.
-- Add no diary element by default. Add one only when it strengthens scale, companionship, or memory; rarely add two and never exceed three.
-- Omit handwriting when it weakens the composition. When used, keep one short line and generous space around it.
-- Avoid cute clutter, evenly scattered doodles, decorative filler, busy borders, and scrapbook density.
-- Make restraint visible: the final image should feel edited, composed, and quietly premium rather than merely unfinished.
+- Draw incomplete pencil or soft-ink contours around selected edges.
+- Add a few observational lines, construction marks, or tiny irregular hatching strokes.
+- Let lines overshoot, break, vary in pressure, and occasionally disagree with the paint edge.
+- Combine linework with two to five broad watercolor or gouache shapes.
+- Show paper grain, dry brush, pigment variation, and restrained bleeding.
+- Avoid clean vector outlines, digital airbrushing, uniform texture overlays, and photographic detail disguised as paint.
 
-## Use the colour system
+## Keep it elevated and minimal
 
-Build a small, muted palette from:
+- Use three to five dominant colours, including the warm paper tone.
+- Prefer muted moss, sage, olive, dusty yellow, warm grey, faded blue, terracotta, or faded orange.
+- Use one visual accent at most.
+- Treat every mark as intentional; remove anything that does not improve hierarchy, rhythm, or memory.
+- Avoid cute clutter, sticker language, scrapbook density, decorative borders, repeated motifs, and evenly scattered doodles.
+- Do not make minimalism sterile: retain paper, pigment, pencil, and human irregularity.
 
-- warm paper white
-- moss, sage, or olive green
-- dusty yellow
-- warm grey
-- faded blue
-- terracotta or faded orange
+## Integrate handwriting
 
-Let the source guide which colours appear. Soften every colour through the paper tone. Avoid neon colour, strong saturation, pure black shadows, harsh contrast, HDR effects, and glossy digital gradients.
+Include one original English line of 3–8 words by default. Text is a structural part of the poster, not an optional caption.
 
-## Build handmade texture
+- Place it in deliberate relationship to the motif: aligned to an edge, floating across open paper, or tucked into a quiet margin.
+- Keep generous space around it.
+- Use one handwriting personality only: quiet graphite diary, thin irregular ink, travel-journal pencil, or restrained field notes.
+- Keep it readable, handmade, and visually secondary to the motif.
+- Prefer observation, memory, atmosphere, or an incomplete thought.
+- Avoid explanation, motivation, advertising, life advice, and familiar quotations.
 
-Combine broad watercolor or gouache shapes with restrained coloured-pencil and soft-ink marks. Include visible paper grain, pigment variation, gentle bleeding, dry-brush edges, and slightly uneven line density. Keep imperfections subtle and material, never added as a uniform digital filter.
+Optionally add one tiny line of metadata, such as a place, season, or date, when known. A short Chinese line may be added when requested; make it a natural emotional counterpart rather than a literal translation.
 
-Use organic, relaxed outlines. Avoid mechanical vector precision, photorealistic micro-detail, and perfectly smooth surfaces.
+When exact spelling matters, generate the poster art without lettering first and add verified hand-styled typography in a separate editing pass. Do not omit the intended text from the final deliverable.
 
-## Add diary elements
+## Use diary elements sparingly
 
-Add zero to three small supporting elements according to the scene. Choose from a tiny anonymous character, bird, leaf, flower, cup, notebook, tote bag, travel object, paper tape, cat, star, cloud, or simple line doodle.
+Add zero or one supporting mark: a tiny anonymous character, bird, leaf, flower, cup, notebook, tote bag, travel object, cat, star, cloud, arrow, underline, or simple observational doodle.
 
-- Use fewer elements when the source is already complex.
-- Keep every element subordinate to the scene.
-- Do not scatter decorations randomly.
-- Do not turn the page into scrapbooking or a sticker collage.
-
-Render tiny characters with rounded, simple silhouettes and no facial detail. Use them to create companionship, never as performers or mascots.
-
-## Handle handwriting
-
-Use at most one handwriting personality per image. Vary it across a series when possible:
-
-1. Japanese pencil diary — small, light graphite, natural spacing.
-2. French ink notebook — thin, elegant, slightly irregular ink.
-3. Child sketchbook — simple forms and honest uneven spacing.
-4. Travel journal — quick strokes and an organic rhythm.
-5. Vintage field notes — fine fountain pen with quiet imperfections.
-
-Treat handwriting as part of the illustration, not a caption layer. Place it in negative space without covering a focal element. Keep it readable but secondary.
-
-When exact spelling matters, prefer generating the illustration without text and adding verified typography in a separate editing pass.
-
-## Write the optional line
-
-Unless the user asks for no text, write one original English line of 4–10 words. Make it an observation, fragment of memory, or atmospheric thought. Do not explain the picture and do not write advice, advertising, motivational copy, or a familiar quotation.
-
-A short Chinese line may be added when requested. Make it a natural emotional counterpart, not a literal translation. Keep it smaller and lighter than the English line.
-
-Desired register: quiet, specific, incomplete, and emotionally restrained.
+Use it only to create scale, companionship, or rhythm. Never use diary elements to fill empty space. Empty paper is part of the design.
 
 ## Avoid
 
+- full-scene reproduction or photo-to-watercolor filtering
+- photorealism, hyperrealism, HDR, bokeh, cinematic grading, or glossy AI rendering
+- postcard composition or a centred image with a caption underneath
+- clean vector-poster geometry or corporate graphic design
 - anime, manga, comic, Disney-like, or 3D character styling
-- glossy AI rendering or hyperrealism
-- vector-poster geometry
-- cinematic spectacle or dramatic fantasy lighting
-- heavy outlines, hard drop shadows, or dense black areas
-- excessive decorative objects
+- dense decoration, sticker collage, or cute handcraft styling
+- heavy outlines, hard drop shadows, pure black areas, or saturated neon colour
 - detailed faces on tiny figures
-- watermarks, logos, fake signatures, or artist imitation
-
-Do not imitate a named living artist. Translate any such request into the medium, mood, palette, texture, and composition rules defined here.
+- watermarks, logos, fake signatures, or imitation of a named living artist
 
 ## Quality check
 
 Before delivering, confirm:
 
-- The original ratio, orientation, and important framing are preserved.
-- The place or subject remains recognisable.
-- One visual highlight is immediately clear without becoming loud or theatrical.
-- The emotional focus survived simplification.
-- Paper and pigment variation are visible without looking synthetic.
-- Colours are limited and muted, with contrast concentrated near the highlight.
-- The composition contains meaningful negative space within the image and has room to breathe.
-- Secondary details have been reduced enough to create a clear, minimal hierarchy.
-- Added elements support rather than decorate the memory.
-- Any lettering is short, secondary, correctly spelled, and legible.
-- The result feels like another page from the same notebook.
+- The output reads immediately as a poster, not a processed photograph.
+- One extracted motif carries the memory and remains recognisable.
+- The composition has been rebuilt rather than copied from the source.
+- At least 65% of the canvas feels visually calm.
+- Hand-drawn contours are clearly visible and do not look vector-clean.
+- Watercolor or gouache appears in selective shapes, not across the whole photograph.
+- One short handwritten line is present, integrated, correctly spelled, and readable.
+- The palette is limited and the hierarchy is clear.
+- Empty paper has not been filled with unnecessary decoration.
+- Even a weak source photograph has become intentional, refined, and memorable.
 
 If any check fails, revise before delivering.
