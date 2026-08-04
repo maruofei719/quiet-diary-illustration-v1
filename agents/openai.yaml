@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quiet Diary Illustration"
+  short_description: "Turn photographs into quiet diary paintings"
+  default_prompt: "Use $quiet-diary-illustration-v1 to transform this photograph into a quiet watercolor diary illustration."
