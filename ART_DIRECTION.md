@@ -42,6 +42,16 @@ Leave room to breathe. Empty space is not unfinished; it is an active part of th
 
 The principal scene should feel settled on the page rather than stretched to fill it. Asymmetry, margins, and unpainted paper create rhythm. Nothing should feel crowded or overly arranged.
 
+Negative space should also exist within the scene. Background detail may soften, dissolve, or remain unpainted so the eye can rest. This is not an empty border placed around a reduced photograph; it is a deliberate redistribution of visual weight.
+
+## The visual highlight
+
+Every photograph contains something that made it worth keeping: a shaft of light, a roofline, a gesture, a patch of colour, an unusual silence, or a small relationship between objects.
+
+Find that highlight before painting. Give it the clearest hierarchy through silhouette, pigment, texture, or restrained local contrast. Let everything else support it, recede from it, or disappear.
+
+One memorable detail is more powerful than many equally described details.
+
 ## Simplification
 
 Simplify without losing identity.
@@ -85,6 +95,14 @@ A line never explains the illustration. It sits beside it. It may observe, remem
 Each source may be a temple, street, portrait, café, garden, museum, forest, or ordinary object. The subject changes; the notebook does not.
 
 Consistency comes from restraint: the same quiet materials, the same respect for negative space, the same willingness to leave something unsaid.
+
+## Elevated simplicity
+
+Simplicity is not the absence of work. It is evidence of selection.
+
+An elevated page uses few colours, few marks, and few supporting objects, but each choice feels intentional. It avoids cute clutter, decorative filler, busy borders, and evenly scattered doodles. Contrast gathers near the visual highlight; the rest of the page remains calm.
+
+The result should feel composed rather than decorated, refined rather than polished, and quiet rather than empty.
 
 ## Final thought
 
