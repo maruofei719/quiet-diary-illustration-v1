@@ -10,11 +10,12 @@ Transform a source photograph into one page from a quiet personal notebook. Pres
 ## Workflow
 
 1. Inspect the source before generating.
-2. Identify the main subject, emotional focus, framing, aspect ratio, light direction, dominant shapes, and details essential to recognition.
-3. Choose one restrained palette and one handwriting personality.
-4. Translate the scene using the rules below.
-5. Add diary elements only when they support the memory.
-6. Check the finished image against the quality checklist.
+2. Identify one primary visual highlight: the detail, gesture, light, colour relationship, or landmark that makes the photograph worth remembering.
+3. Identify the main subject, framing, aspect ratio, light direction, dominant shapes, and details essential to recognition.
+4. Choose one restrained palette and one handwriting personality.
+5. Translate the scene using the rules below, giving the highlight the clearest hierarchy.
+6. Add diary elements only when they support the memory.
+7. Check the finished image against the quality checklist.
 
 If no source image is available, ask for one. If the user explicitly requests a scene from description alone, compose it using the same visual system.
 
@@ -28,6 +29,9 @@ If no source image is available, ask for one. If the user explicitly requests a 
 
 ## Simplify
 
+- Organise the image around one primary visual highlight; allow at most one secondary supporting detail.
+- Give the highlight the clearest silhouette, richest material variation, or strongest local contrast without making it loud.
+- Reduce, fade, merge, or leave unpainted anything that competes with the highlight.
 - Reduce architecture to silhouette, roofline, rhythm, and major structural features.
 - Merge repeated windows, ornaments, foliage, and background clutter into calm shapes.
 - Paint trees as masses; avoid individually rendered leaves.
@@ -37,13 +41,26 @@ If no source image is available, ask for one. If the user explicitly requests a 
 
 ## Compose
 
-- Let the principal painted subject occupy roughly 35–45% of the page when the source permits.
-- Keep roughly 55–65% visually calm; treat negative space as content.
+- Let the principal painted subject occupy roughly 30–40% of the page when the source permits.
+- Keep roughly 60–70% visually calm; treat negative space as content.
 - Leave a natural margin or quiet area for handwriting.
 - Maintain asymmetrical, unforced balance.
 - Never crowd the image merely to fill the canvas.
+- Create negative space by selectively fading edges, omitting low-value background detail, and allowing warm paper to remain visible within the scene—not by adding an unrelated blank border.
+- Preserve the original aspect ratio while redistributing visual emphasis toward the photograph's highlight.
 
-These percentages are guidance, not a reason to distort a tightly framed source.
+These percentages are guidance, not a reason to distort a tightly framed source. When the photograph is visually dense, simplify more aggressively instead of shrinking every object into equal detail.
+
+## Keep the result elevated and minimal
+
+- Prefer one clear idea over several attractive details.
+- Use a limited palette of three to five dominant hues.
+- Keep contrast concentrated near the visual highlight; let surrounding areas remain soft and low-information.
+- Use fewer marks, cleaner shape relationships, and deliberate intervals of untouched paper.
+- Add no diary element by default. Add one only when it strengthens scale, companionship, or memory; rarely add two and never exceed three.
+- Omit handwriting when it weakens the composition. When used, keep one short line and generous space around it.
+- Avoid cute clutter, evenly scattered doodles, decorative filler, busy borders, and scrapbook density.
+- Make restraint visible: the final image should feel edited, composed, and quietly premium rather than merely unfinished.
 
 ## Use the colour system
 
@@ -116,9 +133,12 @@ Before delivering, confirm:
 
 - The original ratio, orientation, and important framing are preserved.
 - The place or subject remains recognisable.
+- One visual highlight is immediately clear without becoming loud or theatrical.
 - The emotional focus survived simplification.
 - Paper and pigment variation are visible without looking synthetic.
-- Colours are muted and the page has room to breathe.
+- Colours are limited and muted, with contrast concentrated near the highlight.
+- The composition contains meaningful negative space within the image and has room to breathe.
+- Secondary details have been reduced enough to create a clear, minimal hierarchy.
 - Added elements support rather than decorate the memory.
 - Any lettering is short, secondary, correctly spelled, and legible.
 - The result feels like another page from the same notebook.
