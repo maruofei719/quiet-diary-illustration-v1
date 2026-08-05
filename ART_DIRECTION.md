@@ -12,7 +12,7 @@ A photograph records what was there. A memory keeps what mattered. This visual l
 
 The goal is not perfection. The goal is presence.
 
-The final work is a poster, not a painted copy of a photograph. The photograph is raw material: a small truth is extracted, isolated, and recomposed until even an imperfect snapshot can become intentional and memorable.
+The final work is a designed handmade image, not a painted copy of a photograph. The photograph is raw material: a small visual world is extracted and recomposed until even an imperfect snapshot can become intentional and memorable.
 
 ## Philosophy
 
@@ -30,7 +30,9 @@ Quiet does not mean empty of feeling. It means the feeling has room to arrive.
 
 Two languages meet on every page.
 
-The page should read first as a minimal editorial poster and only then reveal the photograph from which it came. Scale, alignment, cropping, paper, and text are as important as the depicted subject.
+The page should read first as a coherent handmade composition and only then reveal the photograph from which it came. Scale, alignment, cropping, paper, and text are as important as the depicted subject.
+
+Minimalism here does not mean isolation. A composition may contain a clear anchor, several smaller objects, large colour fields, text, and quiet marks. It remains minimal when hierarchy is decisive, shapes are broad, and every element has a role.
 
 ### Quiet watercolour
 
@@ -50,7 +52,11 @@ The principal scene should feel settled on the page rather than stretched to fil
 
 Negative space should also exist within the scene. Background detail may soften, dissolve, or remain unpainted so the eye can rest. This is not an empty border placed around a reduced photograph; it is a deliberate redistribution of visual weight.
 
-The original framing is not sacred. A subject may be isolated, enlarged, shifted, cropped, or partially omitted. Recomposition is what turns source material into a poster.
+The original framing is not sacred. A subject may be isolated, enlarged, shifted, cropped, or partially omitted. Other fragments from the source may remain as smaller companions, environmental clues, or distant marks. Recomposition is what turns source material into a designed image.
+
+Open paper should never feel abandoned. Texture, a broad directional stroke, a faded block, a supporting cluster, or measured typography may activate it without destroying calm.
+
+Both warm light paper and deep charcoal paper belong to the language. The ground changes with the memory; the material honesty remains.
 
 ## The visual highlight
 

@@ -1,4 +1,4 @@
 interface:
   display_name: "Quiet Diary Illustration"
-  short_description: "Turn any photograph into a minimal handmade poster"
-  default_prompt: "Use $quiet-diary-illustration-v1 to recompose this photograph as an elevated minimal poster with visible hand drawing and integrated handwritten text."
+  short_description: "Fuse photographs into refined colour-block drawings"
+  default_prompt: "Use $quiet-diary-illustration-v1 to fuse these photographs into one refined handmade image with large textured colour blocks, simple drawing, supporting fragments, active paper space, and integrated handwritten text."

@@ -2,7 +2,7 @@
 
 > Create images that feel remembered rather than recreated.
 
-Quiet Diary Illustration is an open visual system for recomposing any photograph—even an ordinary or flawed snapshot—into an elevated minimal handmade poster. It extracts one memorable motif, rebuilds the composition with generous paper space, and combines selective pigment, visible pencil or ink, and integrated handwriting.
+Quiet Diary Illustration is an open visual system for recomposing one or more photographs—even ordinary or flawed snapshots—into a refined handmade image. It combines a clear visual anchor with supporting source fragments, large textured colour blocks, simple pencil or ink drawing, active paper space, and integrated handwriting.
 
 ## What this repository contains
 
@@ -21,8 +21,8 @@ The art direction explains **why** the work looks and feels this way. The skill 
 Copy this repository into your Codex skills directory, then invoke it by name:
 
 ```text
-Use $quiet-diary-illustration-v1 to recompose this photograph as a minimal handmade poster.
-Keep the original aspect ratio, isolate one motif, and include one short handwritten English line.
+Use $quiet-diary-illustration-v1 to fuse these photographs into one refined handmade image.
+Use large textured colour blocks, simple drawing, supporting fragments, active paper space, and integrated handwritten text.
 ```
 
 ### With another image-capable model
@@ -38,11 +38,11 @@ The source photograph remains the authority for identity and emotion, but not fo
 
 ## Core principles
 
-1. Extract one memorable motif instead of reproducing the full photograph.
-2. Rebuild the composition as a poster rather than applying a watercolor filter.
-3. Let empty paper participate in the composition.
-4. Keep hand-drawn lines, selective pigment, and integrated handwriting visible.
-5. Make every output feel intentional, minimal, and part of the same notebook.
+1. Build around one clear anchor while retaining useful supporting fragments.
+2. Recompose rather than applying a watercolor filter.
+3. Use large colour blocks and active paper space to organise the canvas.
+4. Keep simple drawing and integrated handwriting visible.
+5. Make minimalism come from hierarchy and editing—not emptiness.
 
 For the complete philosophy, read [`ART_DIRECTION.md`](ART_DIRECTION.md). For generation rules and the quality checklist, read [`SKILL.md`](SKILL.md).
 
