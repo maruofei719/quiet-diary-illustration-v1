@@ -1,4 +1,4 @@
 interface:
   display_name: "Quiet Diary Illustration"
-  short_description: "Create stable reference-locked photo posters"
-  default_prompt: "Use $quiet-diary-illustration-v1 in Reference-Locked Standard Mode to analyse these photographs, select exactly one compatible layout recipe, compile the fixed four-paragraph prompt, generate the poster, inspect it against the quality gate, and return the image, recipe, and exact prompt."
+  short_description: "Deconstruct photos into original quiet posters"
+  default_prompt: "Use $quiet-diary-illustration-v1 in Deconstructed Standard Mode. Treat these photographs as a material library, select one Recipe A–D, execute extract, remove, rescale, and recompose, generate the poster, inspect it against the reverse-reconstruction quality gate, and return the image, recipe, and exact prompt."
