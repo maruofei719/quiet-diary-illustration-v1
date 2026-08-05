@@ -1,4 +1,4 @@
 interface:
   display_name: "Quiet Diary Illustration"
-  short_description: "Turn photographs into quiet diary paintings"
-  default_prompt: "Use $quiet-diary-illustration-v1 to transform this photograph into a quiet watercolor diary illustration."
+  short_description: "Turn any photograph into a minimal handmade poster"
+  default_prompt: "Use $quiet-diary-illustration-v1 to recompose this photograph as an elevated minimal poster with visible hand drawing and integrated handwritten text."
