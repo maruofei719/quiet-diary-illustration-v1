@@ -1,69 +1,40 @@
 # Quiet Diary Illustration
 
-> Create images that feel remembered rather than recreated.
+> Make the familiar feel newly seen.
 
-Quiet Diary Illustration is an open visual system for recomposing one or more photographs—even ordinary or flawed snapshots—into a refined handmade image. It combines a clear visual anchor with supporting source fragments, large textured colour blocks, simple pencil or ink drawing, active paper space, and integrated handwriting.
+Quiet Diary Illustration is an open visual system for transforming one or more photographs—even ordinary or flawed snapshots—into restrained experimental editorial posters. It combines a dominant colour field, decisive photographic cropping, extreme scale contrast, sparse notation, controlled geometry, and tactile analog print grain.
 
-## What this repository contains
+## Repository contents
 
-- [`ART_DIRECTION.md`](ART_DIRECTION.md) — the lasting creative philosophy and visual principles.
-- [`SKILL.md`](SKILL.md) — concise, executable instructions for an image-capable AI agent.
+- [`ART_DIRECTION.md`](ART_DIRECTION.md) — the creative philosophy and visual language.
+- [`SKILL.md`](SKILL.md) — executable guidance for an image-capable AI agent.
 - [`agents/openai.yaml`](agents/openai.yaml) — optional Codex interface metadata.
-- `examples/` — source-and-output pairs demonstrating the system.
-- `assets/` — project artwork such as a banner or icon.
+- `examples/` — source-and-output pairs.
+- `assets/` — project artwork.
 
-The art direction explains **why** the work looks and feels this way. The skill explains **how** to produce it consistently.
+## Use in Codex
 
-## Use it
-
-### In Codex
-
-Copy this repository into your Codex skills directory, then invoke it by name:
+Install this repository as a skill, then invoke:
 
 ```text
-Use $quiet-diary-illustration-v1 to fuse these photographs into one refined handmade image.
-Use large textured colour blocks, simple drawing, supporting fragments, active paper space, and integrated handwritten text.
+Use $quiet-diary-illustration-v1 to transform these photographs into a restrained experimental editorial poster.
+Use one dominant field, decisive photographic cropping, sparse verified notation, one controlled geometric intervention, and tactile analog print grain.
 ```
-
-### With another image-capable model
-
-Attach a photograph, provide the contents of `SKILL.md` as the style instructions, and add any request-specific choices such as:
-
-- no handwriting
-- English and Chinese lines
-- fewer diary elements
-- preserve every architectural landmark
-
-The source photograph remains the authority for identity and emotion, but not for framing. The system may crop, isolate, enlarge, shift, or omit material to create a stronger poster.
 
 ## Core principles
 
-1. Build around one clear anchor while retaining useful supporting fragments.
-2. Recompose rather than applying a watercolor filter.
-3. Use large colour blocks and active paper space to organise the canvas.
-4. Keep simple drawing and integrated handwriting visible.
-5. Make minimalism come from hierarchy and editing—not emptiness.
+1. Preserve a photographic trace while changing its scale and context.
+2. Build the composition around one dominant field.
+3. Use colour as structure, not decoration.
+4. Treat typography as sparse archival notation.
+5. Create sophistication through hierarchy, texture, and one controlled anomaly.
 
-For the complete philosophy, read [`ART_DIRECTION.md`](ART_DIRECTION.md). For generation rules and the quality checklist, read [`SKILL.md`](SKILL.md).
-
-## Example structure
-
-Add examples as paired files with clear, matching names:
-
-```text
-examples/
-├── temple-source.jpg
-├── temple-output.jpg
-├── cafe-source.jpg
-└── cafe-output.jpg
-```
-
-Only publish source photographs you own or have permission to share. Do not include personal or sensitive images without consent.
+The system deliberately avoids full-scene watercolor conversion, scrapbook styling, decorative doodle filling, generic centered templates, and glossy photo enhancement.
 
 ## Status
 
-Version 1.0 defines the first stable visual language. Future revisions may improve reproducibility, examples, and model-specific guidance without changing the central art direction.
+Version 2.0 reframes the project as an experimental editorial poster system while retaining its quiet, tactile, memory-led identity.
 
 ## License
 
-The documentation and skill instructions are released under the [MIT License](LICENSE). Source photographs and example artworks may carry separate rights; label them clearly when adding them.
+The documentation and skill instructions are released under the [MIT License](LICENSE). Source photographs and example artworks may carry separate rights.

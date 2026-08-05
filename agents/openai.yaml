@@ -1,4 +1,4 @@
 interface:
   display_name: "Quiet Diary Illustration"
-  short_description: "Fuse photographs into refined colour-block drawings"
-  default_prompt: "Use $quiet-diary-illustration-v1 to fuse these photographs into one refined handmade image with large textured colour blocks, simple drawing, supporting fragments, active paper space, and integrated handwritten text."
+  short_description: "Turn photographs into quiet experimental posters"
+  default_prompt: "Use $quiet-diary-illustration-v1 to transform these photographs into a restrained experimental editorial poster with one dominant field, decisive photographic cropping, sparse verified notation, controlled geometric intervention, and tactile analog print grain."
