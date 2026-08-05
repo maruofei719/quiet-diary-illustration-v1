@@ -1,150 +1,125 @@
 ---
 name: quiet-diary-illustration-v1
-description: Deconstruct and recompose one or more photographs—including weak, ordinary, blurred, badly framed, or visually busy snapshots—into original reference-locked experimental editorial posters. Use for quiet art prints, travel memories, architectural fragments, object specimens, tiny-figure compositions, visual diaries, and photo-based collage where Codex must treat the source as a material library, extract only identity-bearing elements, remove the original scene, radically rescale and reposition fragments, mix photographic evidence with flat screen-printed forms, and create a new composition rather than a crop, filter, colour grade, or preserved photograph.
+description: Transform one or more photographs—including weak, ordinary, blurred, badly framed, or visually busy snapshots—into quiet, dreamlike experimental editorial posters governed by associative memory rather than photographic space or rigid collage. Use for travel memories, architecture, objects, tiny figures, art prints, and photo-based visual diaries where Codex should retain one recognisable memory anchor, dismantle the original scene, let motifs echo, drift, mutate, overlap, or disappear, blend photographic evidence with flat screen-printed forms and analog print texture, and generate a new poetic composition instead of a crop, filter, colour grade, preserved photograph, or countable modular collage.
 ---
 
-# Quiet Diary Illustration — Deconstruct and Recompose
+# Quiet Diary Illustration — Associative Memory
 
 Produce both:
 
 1. a compact final image-generation prompt, and
 2. the generated raster poster made from that prompt.
 
-Use **Deconstructed Standard Mode** unless the user explicitly asks to preserve the original composition. Do not stop at a prompt.
+Use **Associative Memory Mode** unless the user explicitly asks for another mode. Do not stop at a prompt.
 
 ## Creative contract
 
-Treat every source photograph as a **material library, never as the base image**.
+Treat every source photograph as a **memory trigger, never as a base image or a tray of separate collage pieces**.
 
-Preserve what the subject is, but not how it was photographed. Keep two to four identity-bearing cues—such as a roof profile, gesture, figure, window, object, rock, sign, or reflection—then destroy the original framing, horizon, scale, perspective, and spatial order.
+Preserve one clear memory anchor so the source remains emotionally identifiable. Remove the photographed scene around it, then allow selected cues to behave like thoughts: a roof may become a shadow, mountain, wave, or absence; a reflection may climb upward; a rock may float or dissolve into architecture; a branch may recur as a line of type or distant mark.
+
+The result must feel remembered, dreamed, or half-invented—not assembled.
 
 Every output must satisfy:
 
-- vertical **4:5** flat poster by default; no mockup, external frame, border shadow, or photographed paper
-- approximately **12%–35%** recognisably photographic material across the whole canvas
-- at least **55%** active paper or newly constructed flat colour/form
-- two to four extracted source elements, never an intact scene
-- at least one element rescaled to roughly **2×–6×** its original relative importance
-- at least two elements moved into a new relationship
-- at least one source element converted into another medium: flat ink silhouette, screen-printed block, halftone field, narrow texture strip, or paper-edged shape
-- one dominant spatial gesture and no equal-weight collage grid
-- compact palette, sparse verified notation, and tactile analog print texture
+- vertical **4:5** flat poster by default; change ratio only when the source or user benefits from it
+- one recognisable **memory anchor**, partial and transformed rather than an intact central cutout
+- one dominant associative action: **echo, metamorphosis, disappearance, or impossible continuity**
+- at least one motif appearing in two materially different states
+- at least one porous boundary created through overlap, halftone, transparency, erosion, interruption, shared texture, or negative space
+- at least one impossible but visually plausible relationship between source-derived elements
+- a compact palette, tactile analog reproduction, sparse verified type, and a coherent emotional temperature
+- enough breathing room for the eye to wander, but no large area that feels merely blank or unfinished
 
-The viewer may recognise the place or subject, but must not be able to reconstruct the original photograph from the poster.
+If the viewer can immediately count all the pieces, name their boxes, or describe the layout as “a photo plus shapes,” the composition has failed.
 
-Ignore screenshot UI, status bars, buttons, expand/refresh icons, profile names, white app margins, red corner marks, rounded app-card clipping, and social-media overlays.
+Ignore screenshot UI, status bars, buttons, expand or refresh icons, profile names, white app margins, red corner marks, rounded app-card clipping, and social-media overlays.
 
-## Mandatory transformation sequence
+## Mandatory memory sequence
 
 Always execute in this order:
 
-### 1. Extract
+### 1. Remember
 
-Inventory only the strongest identity cues. Select two to four elements with different possible roles: silhouette, photographic fragment, texture, colour sample, tiny figure, or structural line.
+Identify the source's emotional fact and one anchor that can carry identity: a gesture, roofline, window, figure, sign, reflection, rock, chair, tree mass, object, or colour relationship. Record two or three secondary cues only as possible echoes, textures, absences, or transitions.
 
-### 2. Remove
+### 2. Forget
 
-Delete the original sky, background, ground, horizon, scene continuity, natural perspective, and incidental clutter unless one of them is the chosen identity cue. Remove at least 60% of the source context. Never use the full photograph as a background or a complete rectangular crop.
+Remove the original sky, horizon, ground, framing, scene continuity, natural perspective, and incidental clutter unless one is essential to the anchor. Never use the whole photograph as a background, a complete rectangular crop, or a small preserved scene.
 
-### 3. Rescale
+### 3. Associate
 
-Change visual importance. Enlarge a formerly minor object, reduce a major subject to a small fragment, stretch a reflection into a strip, or convert a roof, shadow, wall, or shoreline into a monumental flat form.
+Invent relationships from visual or emotional resemblance rather than physical reality. Let one source cue borrow the scale, contour, texture, position, or behaviour of another. Use visual rhyme rather than separate placement.
 
-### 4. Recompose
+### 4. Distort
 
-Place the extracted elements on a new paper/colour field. Change their alignment, distance, overlap, edge relationship, and reading order. Use asymmetry and one controlled spatial surprise. Do not preserve the source's original left/right, foreground/background, or top/bottom logic.
+Change importance and physical logic. Enlarge a minor contour, reduce the main subject, reverse gravity, repeat a silhouette at changing opacity, stretch a reflection beyond its source, interrupt a structure, or turn solid matter into atmosphere.
+
+### 5. Dissolve
+
+Connect the new forms without clean seams. Let edges erode, overlap, ghost, misregister, fade into paper, pass through another material, or continue as absence. The eye should discover transitions rather than encounter a set of cut-out units.
+
+## Associative grammar
+
+Choose one dominant grammar. It controls the transformation, not a fixed layout. One or two quieter secondary gestures may support it.
+
+### Grammar A — Echo and drift
+
+A source silhouette, contour, or texture recurs in altered scale, crop, density, or material. Each echo becomes less literal and more atmospheric. Never repeat identical stickers or evenly spaced motifs.
+
+### Grammar B — Metamorphic bridge
+
+One source element gradually becomes another: roof into wave, tree into smoke, reflection into architecture, wall into sky, garment into landform, shadow into animal, or object into typographic rhythm. The transition must share contour, texture, or colour so it reads as one event.
+
+### Grammar C — Vanishing memory
+
+The anchor is incomplete, interrupted, or partly erased. Its missing portion survives elsewhere as a ghost, negative space, halftone field, displaced colour, or faint registration error. Absence must carry information rather than remain empty.
+
+### Grammar D — Impossible continuity
+
+One line, reflection, shadow, surface, or texture crosses incompatible elements and joins them into an impossible spatial sentence. It may move upward, fold across scale, pass through architecture, or connect distant fragments without becoming a diagram or border.
+
+## Association selection
+
+- repeated contour, rhythm, or gesture → Grammar A
+- two source materials with a visual rhyme → Grammar B
+- quiet subject with emotionally useful absence → Grammar C
+- strong line, reflection, shadow, shoreline, road, or architectural edge → Grammar D
+
+If several grammars fit, choose the one that creates the strongest new relationship while leaving one source anchor legible. Do not rotate formulas mechanically across a batch; respond to the emotional fact of each source.
+
+When multiple photographs are supplied, use one as the memory anchor and let the others contribute a contour, colour, texture, gesture, or impossible transition. Merge their visual logic; never make a split screen, before-and-after pair, equal grid, or literal montage.
 
 ## Prompt compiler
 
-Compile only visible instructions. Every final prompt must specify, in this order:
+Compile only visible instructions. Every final prompt must specify:
 
-1. **Canvas** — vertical 4:5, flat paper/ink surface, no mockup.
-2. **Removal** — explicitly list the original scene structures that must disappear.
-3. **Extracted units** — name two to four exact source elements.
-4. **Transformation map** — state the new size, position, crop, and material of every unit.
-5. **Photographic limit** — keep recognisable photo pixels within 12%–35% unless the user requests otherwise.
-6. **Colour system** — paper tone, dark ink, one source-derived colour family, and at most one accent.
-7. **Typography and geometry** — one short verified label plus zero to two micro-notes; at most one family of hairline geometry.
-8. **Reproduction** — matte stock, offset/risograph grain, halftone, softened black, faded ink, subtle dust, and slight misregistration.
-9. **Hard avoids** — end with the relevant negative constraints.
+1. **Canvas and atmosphere** — ratio, flat paper/ink surface, emotional temperature, and no mockup.
+2. **Erasure** — name the original scene structures that must disappear.
+3. **Memory anchor** — name the single identity-bearing element that must remain recognisable, partial, and transformed.
+4. **Dream event** — describe the dominant grammar and one precise impossible relationship.
+5. **Transitions** — state how forms echo, mutate, overlap, erode, misregister, or dissolve; prohibit clean piece boundaries.
+6. **Material and colour** — paper tone, dark ink, one source-derived family, at most one accent, and analog reproduction.
+7. **Typography** — one short verified label or zero to two verified micro-notes, integrated as a fading trace rather than a headline.
+8. **Hard avoids** — end with the relevant negative constraints.
 
-## Four composition recipes
-
-Choose exactly one recipe. Do not combine recipes.
-
-### Recipe A — Disassembled rhythm
-
-Use for repeated roofs, windows, birds, streets, signs, posts, waves, or facade rhythms.
-
-- keep **58%–72%** as warm paper field
-- assemble one low horizontal rhythm from **two to four non-adjacent narrow crops**, separated by small paper or flat-colour gaps
-- combined photographic area: **16%–28%** of canvas
-- do not use one intact panoramic strip
-- enlarge or repeat one minor source detail as the chromatic anchor
-- place two verified micro-notes far apart
-
-### Recipe B — Reconstructed specimen
-
-Use for one object, artwork, bird, building feature, portrait detail, still life, or symbolic motif.
-
-- keep **60%–76%** as a single muted field
-- isolate the subject from all original context
-- combine one photographic specimen occupying **10%–22%** with one enlarged flat silhouette derived from a different part of the same source
-- optionally attach up to four small tonal swatches or one texture strip
-- place one title and one short definition directly beside the specimen
-- do not reproduce a rectangular mini-version of the original photo
-
-### Recipe C — Monumental form and tiny evidence
-
-Use for a person, bench, chair, animal, vehicle, tree, building, or object with scale potential.
-
-- one newly constructed flat form occupies **45%–65%** of canvas
-- one tiny photographic cutout occupies **2.5%–8%** and touches or crosses the flat form's boundary
-- derive the flat form from a source silhouette, roof, shadow, wall, tree mass, or fabric plane
-- remove every other environmental element
-- use no title by default; allow one tiny verified caption
-- keep the photographic cutout crisp and grainy, never painted
-
-### Recipe D — Four-part deconstruction
-
-Use for landscape, architecture, garden, shoreline, interior, or any scene with several distinctive materials.
-
-- keep **52%–68%** as active paper field
-- extract exactly three or four units with different treatments:
-  - one oversized flat silhouette or screen-printed form
-  - one small recognisable photographic fragment
-  - one radically enlarged photographic cutout or specimen
-  - optionally one narrow texture/reflection strip
-- combined photographic area: **14%–30%**
-- remove the original horizon, natural depth, and scene continuity
-- place the units asymmetrically with changed scale and no shared realistic perspective
-- add one displaced hairline frame or division, never a decorative grid
-
-## Recipe selection
-
-- repeated visual rhythm → Recipe A
-- isolated motif or object → Recipe B
-- strong silhouette or scale relationship → Recipe C
-- multiple distinctive materials or environmental planes → Recipe D
-
-If two recipes fit, choose the one that changes the original spatial logic more strongly while preserving two or three recognisable identity cues. For a batch, rotate compatible recipes.
-
-When multiple photographs are supplied, assign each source a material role. Use one for identity, another for colour, texture, silhouette, or a secondary fragment. Never create a split screen, before/after pair, equal grid, or literal montage.
+Use relational language—“becomes,” “continues through,” “evaporates into,” “reappears as,” “borrows the contour of,” “is remembered as”—instead of inventory language such as “place item A at the upper left.”
 
 ## Material and colour rules
 
 - preferred palette: warm cream, oatmeal, dusty blue-grey, grey-green, olive, indigo-black, softened charcoal, antique gold, faded cobalt, and burnt orange
 - use no more than three principal hues plus the paper tone
-- keep photographic fragments visibly photographic through halftone, xerox softness, screen-print grain, faded colour, or paper-cut edges
-- keep flat forms opaque or nearly flat; avoid gradients and digital haze
-- do not apply brush texture, drawing, or painted contours to photographic people, buildings, plants, water, or objects
-- allow one high-chroma anchor only when it remains visible at thumbnail size
+- keep the anchor recognisably photographic through halftone, xerox softness, faded colour, or fragmented photo emulsion
+- let photographic and flat materials contaminate one another at their edges; do not isolate each inside a neat cutout
+- use screen-print masses, offset ghosts, halftone dust, erased fibres, ink wear, soft xerox grain, or slight misregistration
+- avoid gradients, digital fog, glossy lighting, and watercolor brushwork
+- allow one high-chroma memory signal only when it supports the source identity
 
 ## Typography
 
-- use one verified title/label and zero to two verified notes
-- prefer restrained serif, neutral grotesk, or monospaced/typewriter type
-- keep most text small and align it to fragments, strips, or hairline geometry
+- use one verified title or label and zero to two verified notes
+- prefer restrained serif, neutral grotesk, monospaced, or typewriter forms
+- text may fragment, fade, drift out of registration, or echo a source contour, but must remain intentionally readable
 - never invent foreign text, coordinates, dates, signatures, or quotes for atmosphere
 - when exact text renders poorly, reserve the space and add verified type in a separate editing pass
 
@@ -152,31 +127,32 @@ When multiple photographs are supplied, assign each source a material role. Use 
 
 Write exactly four compact paragraphs:
 
-1. canvas, paper/field proportions, chosen recipe, and explicit deletion of the original composition
-2. extracted source units and the new scale, location, crop, and medium of each
-3. palette, photographic-material limit, typography, geometry, and analog reproduction
-4. desired emotional result plus hard avoids
+1. canvas, atmosphere, and explicit removal of the original photographic space
+2. memory anchor, dominant associative grammar, and exact dream event
+3. porous transitions, palette, material behaviour, and sparse typography
+4. emotional result plus hard avoids
 
-Never ask the image model to choose the layout. Do not include source paths, analysis, alternatives, checklist prose, or recipe explanations.
+Never ask the image model to choose the layout. Do not include source paths, analysis, alternatives, checklist prose, percentages, coordinates, or recipe explanations.
 
 ## Generation workflow
 
-1. Inspect the source and record identity cues, minor elements worth enlarging, usable material textures, palette, and supplied text.
-2. Choose one recipe.
-3. Write an explicit removal list and transformation map.
-4. Compile the four-paragraph prompt.
+1. Inspect the source and record its emotional fact, memory anchor, secondary cues, contours, material textures, palette, and supplied text.
+2. Choose one dominant associative grammar.
+3. Write one sentence each for the impossible relationship, the material transition, and the disappearance.
+4. Compile the four-paragraph prompt using relational language.
 5. Generate the raster image with built-in image generation.
 6. Inspect at full size and thumbnail size.
-7. Regenerate once with stricter transformation language if any hard failure occurs:
+7. Regenerate once with stricter association language if any hard failure occurs:
    - the output preserves the original horizon, perspective, framing, or object positions
-   - a full photo or intact rectangular scene remains visible
-   - recognisable photographic material exceeds roughly 35%
-   - elements were cropped but not rescaled or repositioned
-   - the result reads as colour grading, a filter, or an editorial photo layout
-   - photographic subjects became painted, illustrated, or brushy
+   - a full photo, intact building, or complete rectangular scene remains visible
+   - the viewer can count clean collage pieces or see a modular grid
+   - elements were merely extracted, resized, and parked separately
+   - no motif mutates, echoes, disappears, or crosses into another material
+   - the result reads as colour grading, a filter, a specimen board, or an editorial photo layout
+   - the anchor disappears completely and the image becomes unrelated fantasy
+   - texture becomes watercolor, decorative illustration, digital haze, or glossy rendering
    - typography is promotional, excessive, incorrect, or nonsensical
-   - screenshot UI, mockup depth, glossy light, or digital effects appear
-8. Return the image, selected recipe, and exact prompt.
+8. Return the image, dominant grammar, and exact prompt.
 
 ## Negative constraints
 
@@ -184,9 +160,11 @@ Always avoid:
 
 - full photograph as background, intact scene, original horizon, original perspective, or original spatial order
 - complete rectangular crop, conventional photo window, colour grading, filter, or lightly altered photograph
-- merely placing shapes, frames, or text on top of the source photo
-- watercolor, gouache, expressive brushwork, pencil drawing, traced illustration, cartoon, cute doodles, stickers, tape, or scrapbook clutter
-- equal collage tiles, mood-board grids, dense montage, or many decorative fragments
+- clean separated collage pieces, equal fragments, precise modular blocks, hard-edged panels, swatch lists, or visible grid
+- merely placing extracted objects, shapes, frames, or text around one another
+- specimen board, infographic, archive sheet, mood board, scrapbook, stickers, tape, or decorative clutter
+- random surrealism with no recognisable anchor or source-derived relationship
+- watercolor, gouache, expressive brushwork, pencil drawing, traced illustration, cartoon, or cute doodles
 - advertising headline, logo, CTA, brand campaign, magazine cover, or corporate infographic
 - glossy mockup, floating paper, border shadow, cinematic lighting, depth of field, HDR, 3D, neon, gradients, or sterile vector branding
 - arbitrary foreign text, fake metadata, fake signature, watermark, interface controls, or social-media chrome
@@ -195,20 +173,20 @@ Always avoid:
 
 Confirm every item before delivery:
 
-- Deconstructed Standard Mode was used.
-- Exactly one recipe is clearly visible.
-- The source functions as a material library, not a base image.
-- Two to four identity cues survive, while at least 60% of source context is removed.
-- Recognisable photo material occupies roughly 12%–35% of the poster.
+- Associative Memory Mode was used.
+- One memory anchor remains recognisable without preserving the scene.
+- One dominant associative grammar shapes the whole poster.
+- At least one motif exists in two materially different states.
+- At least one boundary dissolves through overlap, erosion, transparency, ghosting, halftone, interruption, shared texture, or negative space.
+- At least one impossible relationship is precise, visually plausible, and derived from the source.
+- The viewer cannot immediately count the composition as separate collage pieces.
 - The original horizon, perspective, framing, and spatial order are gone.
-- At least one element is radically rescaled, two are repositioned, and one changes medium.
-- One spatial gesture dominates and the palette stays compact.
-- Photographic fragments remain photographic rather than brushy or illustrated.
-- Typography is sparse, small, verified, and editorial.
-- Analog print character is embedded in every material.
-- The poster belongs with the four references at thumbnail size.
+- Negative space carries tension, traces, or movement and does not feel like unused background.
+- The palette and analog texture unify photographic and constructed materials.
+- Typography is sparse, verified, quiet, and integrated.
+- The result feels poetic and slightly uncanny without becoming arbitrary fantasy.
 - The original photograph cannot be reconstructed from the final arrangement.
-- The image was generated and inspected.
+- The image was generated and inspected at full and thumbnail size.
 
 Revise if any item fails.
 
@@ -219,9 +197,9 @@ Revise if any item fails.
 
 ![Quiet Diary poster](absolute-image-path-or-rendered-image)
 
-**版式**
+**联想语法**
 
-Recipe [A/B/C/D] — [recipe name]
+Grammar [A/B/C/D] — [grammar name]
 
 **最终 Prompt**
 
