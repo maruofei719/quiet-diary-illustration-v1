@@ -1,53 +1,15 @@
 # Quiet Diary Illustration
 
-## Art Direction Manual · Version 2.0
+## Art Direction Manual · Version 3.0
 
-> Make the familiar feel newly seen.
+> A photograph becomes a poster through selection, scale, and interruption.
 
-## Vision
+Quiet Diary Illustration is a reference-locked experimental editorial poster system. Its visual identity comes from four recurring relationships: quiet paper surrounding a photographic strip; a small specimen plate on a muted field; a tiny photographic figure meeting a monumental colour plane; or a landscape interrupted by flat colour and hairline geometry.
 
-Quiet Diary Illustration turns photographs into restrained experimental editorial posters. It does not repaint a scene or decorate a memory. It selects one piece of evidence, changes its scale and context, and gives it enough visual silence to become unfamiliar again.
+Every poster preserves photographic evidence. It does not repaint the source. Cropping, isolation, scale contrast, colour replacement, sparse notation, and analog reproduction make an ordinary image feel newly seen.
 
-The goal is a composed art object: calm, tactile, precise, and slightly enigmatic.
+The work is vertical, flat, matte, tactile, and restrained. Cream, dusty blue-grey, grey-green, olive, indigo, charcoal, faded cobalt, and burnt orange form the core palette. Typography is small, verified, and archival. Paper tooth, halftone, faded ink, xerox softness, and slight misregistration keep the surface physical.
 
-## Shared visual grammar
+Sophistication comes from one precise strange decision and restraint everywhere else. The poster may be mostly paper or mostly photograph, but it never becomes decorative, cute, glossy, promotional, or generic.
 
-Each work is built from a dominant field, a photographic event, sparse notation, and—only when useful—one controlled geometric intervention.
-
-The field creates silence. The photograph creates evidence. The notation creates distance. The intervention creates surprise.
-
-## Scale and space
-
-Scale contrast is emotional structure. A tiny figure can make a field feel immense; a narrow photograph can make surrounding paper feel charged; a nearly full-bleed landscape can be unsettled by one flat replacement colour.
-
-Quiet space is not unfinished. It is activated by colour, grain, boundary, placement, and distance. No fixed subject ratio defines the system.
-
-## Photography
-
-Keep a photographic trace. Crop decisively, isolate a gesture, preserve a flawed texture, or reduce a scene to one recognisable relationship. Photography may be faded, screened, photocopied, desaturated, cut out, or partially recoloured, but should remain evidence rather than become a painted imitation.
-
-## Colour
-
-Build around one dominant field: warm paper, dusty stone, grey green, olive, faded blue, charcoal, or deep navy. Add one or two supporting tones and, when necessary, one sharp interruption.
-
-Colour is architecture, not decoration. Large flat areas organise the page, replace reality, and create emotional temperature.
-
-## Typography and notation
-
-Words behave like archival marks: one title, definition, date, index, coordinate, sequence, or quiet phrase. Most typography is small and deliberately placed. Meaning must be accurate; foreign language is never invented for atmosphere.
-
-## Geometry
-
-Frames, divisions, swatches, masks, and blocks are used sparingly. One family of intervention is enough. Geometry should create tension with the photograph, not turn the work into an infographic.
-
-## Material character
-
-Use paper tooth, offset grain, halftone, photocopy noise, softened black, faded ink, subtle misregistration, and worn edges. Texture belongs inside the image-making process; it should never resemble a generic filter.
-
-## Emotional register
-
-The work may suggest distance, waiting, solitude, movement, memory, uncertainty, or quiet wonder. It avoids spectacle, sentimentality, cuteness, and over-explanation.
-
-## Consistency
-
-The layout may change radically from one poster to another. Consistency comes from restraint, grain, limited colour, sparse notation, precise hierarchy, and the tension between photographic truth and abstract structure.
+Consistency is measured at thumbnail scale: one dominant gesture, one photographic event, compact colour, sparse notation, and unmistakable printed material character.

@@ -1,4 +1,4 @@
 interface:
   display_name: "Quiet Diary Illustration"
-  short_description: "Turn photographs into quiet experimental posters"
-  default_prompt: "Use $quiet-diary-illustration-v1 to transform these photographs into a restrained experimental editorial poster with one dominant field, decisive photographic cropping, sparse verified notation, controlled geometric intervention, and tactile analog print grain."
+  short_description: "Create stable reference-locked photo posters"
+  default_prompt: "Use $quiet-diary-illustration-v1 in Reference-Locked Standard Mode to analyse these photographs, select exactly one compatible layout recipe, compile the fixed four-paragraph prompt, generate the poster, inspect it against the quality gate, and return the image, recipe, and exact prompt."
