@@ -2,7 +2,7 @@
 
 > Make the familiar feel newly seen.
 
-Quiet Diary Illustration is a reference-locked system for transforming one or more photographs—even ordinary or flawed snapshots—into restrained experimental editorial posters. A fixed prompt compiler and four source-matched layout recipes keep the results visually connected and repeatable.
+Quiet Diary Illustration is a reference-locked system for deconstructing one or more photographs—even ordinary or flawed snapshots—into original experimental editorial posters. The source becomes a material library: identity-bearing fragments are extracted, the original scene is removed, and scale, position, medium, and relationships are rebuilt through four repeatable composition recipes.
 
 ## Repository contents
 
@@ -17,23 +17,23 @@ Quiet Diary Illustration is a reference-locked system for transforming one or mo
 Install this repository as a skill, then invoke:
 
 ```text
-Use $quiet-diary-illustration-v1 in Reference-Locked Standard Mode.
-Analyse these photographs, select exactly one compatible Recipe A–D, compile the fixed four-paragraph prompt, generate the poster, inspect it against the quality gate, and return the image, recipe, and exact prompt.
+Use $quiet-diary-illustration-v1 in Deconstructed Standard Mode.
+Treat these photographs as a material library, select exactly one compatible Recipe A–D, execute extract → remove → rescale → recompose, compile the fixed four-paragraph prompt, generate the poster, inspect it against the quality gate, and return the image, recipe, and exact prompt.
 ```
 
 ## Core principles
 
-1. Preserve a photographic trace while changing its scale and context.
-2. Build the composition around one dominant field.
-3. Use colour as structure, not decoration.
-4. Treat typography as sparse archival notation.
-5. Create sophistication through hierarchy, texture, and one controlled anomaly.
+1. Preserve only two to four identity cues; remove the original scene.
+2. Radically rescale, reposition, and change the medium of extracted elements.
+3. Build a new composition around active paper and one dominant spatial gesture.
+4. Use colour as structure and typography as sparse archival notation.
+5. Reject any result from which the original photographic composition can be reconstructed.
 
 The system deliberately avoids full-scene watercolor conversion, scrapbook styling, decorative doodle filling, generic centered templates, and glossy photo enhancement.
 
 ## Status
 
-Version 3.0 adds a deterministic prompt compiler, four fixed composition recipes, measurable geometry, source-based recipe selection, and a regenerate-on-failure quality gate.
+Version 4.0 replaces photograph-preserving layouts with deconstruction rules, a strict photographic-material limit, radical scale changes, changed spatial order, and a reverse-reconstruction quality gate.
 
 ## License
 
