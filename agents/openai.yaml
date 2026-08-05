@@ -1,4 +1,4 @@
 interface:
   display_name: "Quiet Diary Illustration"
-  short_description: "Deconstruct photos into original quiet posters"
-  default_prompt: "Use $quiet-diary-illustration-v1 in Deconstructed Standard Mode. Treat these photographs as a material library, select one Recipe A–D, execute extract, remove, rescale, and recompose, generate the poster, inspect it against the reverse-reconstruction quality gate, and return the image, recipe, and exact prompt."
+  short_description: "Turn photos into dreamlike associative posters"
+  default_prompt: "Use $quiet-diary-illustration-v1 in Associative Memory Mode. Keep one recognisable memory anchor, erase the original photographic space, choose one associative grammar, make one motif transform or echo, dissolve at least one boundary, create one precise impossible relationship, generate the poster, inspect it, and return the image, grammar, and exact prompt."
