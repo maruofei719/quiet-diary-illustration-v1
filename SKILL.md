@@ -1,122 +1,221 @@
 ---
 name: quiet-diary-illustration-v1
-description: Transform one or more photographs—including ordinary, flawed, blurred, badly framed, or visually busy snapshots—into a restrained experimental editorial poster using one dominant colour field, selective photographic fragments, extreme scale contrast, sparse typographic notation, geometric cropping, and tactile analog print grain. Use for quiet poster, art print, travel memory, archival image, poetic photo treatment, minimalist editorial layout, small-figure landscape, modern collage, or refined visual-diary requests where the result should feel designed, enigmatic, and sophisticated rather than like a watercolor filter, scrapbook, or decorative illustration.
+description: Transform one or more photographs—including weak, blurred, badly framed, ordinary, or visually busy snapshots—into a stable reference-locked experimental editorial poster. Use for quiet photo posters, art prints, travel memories, archival layouts, tiny-figure landscapes, specimen plates, geometric photo collage, or restrained visual diaries that must consistently use a vertical paper canvas, one dominant spatial gesture, decisive photographic cropping, sparse archival typography, limited flat colour, and tactile offset-print grain rather than watercolor, decorative illustration, scrapbook, or generic graphic design.
 ---
 
-# Quiet Diary Illustration
+# Quiet Diary Illustration — Reference-Locked Poster System
 
-Recompose photographs as quiet experimental editorial posters. Preserve a photographic trace, then alter its scale, crop, field, colour, and context until the source feels newly seen.
+Turn the user's source into both:
 
-## Core grammar
+1. a compact final image-generation prompt, and
+2. the generated raster poster made from that prompt.
 
-Build every output from three or four parts:
+Use **Reference-Locked Standard Mode** unless the user explicitly requests another direction. Do not merely describe the style or stop at a prompt.
 
-1. **Field** — one dominant paper or colour area that establishes mood.
-2. **Image event** — one photographic crop, tiny figure, framed scene, or interrupted landscape.
-3. **Notation** — a restrained word, number, date, place, definition, or index mark.
-4. **Intervention** — optionally add one geometric block, frame, grid, swatch sequence, mask, or colour replacement.
+## Reference lock
 
-Keep the hierarchy unmistakable. Do not give every part equal weight.
+Every result must read as part of the same poster family as the supplied four references. Preserve these non-negotiable traits:
 
-## Analyse the source
+- vertical **4:5** flat poster canvas by default; no mockup, wall, frame, drop shadow, or photographed paper
+- matte uncoated paper or flat ink field with visible analog grain
+- one dominant spatial gesture, never a collection of equally important elements
+- recognisable photographic evidence: crop, cutout, printed fragment, silhouette, or altered landscape
+- extreme scale contrast: vast field versus small image, or large scene versus tiny figure and fine notation
+- compact palette: paper/field tone, dark ink, one photographic colour family, and at most one accent
+- sparse editorial typography: one short title plus zero to three micro-notes
+- controlled strangeness created by crop, scale, boundary, colour replacement, or displaced frame
+- quiet, archival, enigmatic, modern, and tactile mood
 
-Identify the strongest photographic fact, one intriguing crop, the dominant source colour, and useful real metadata. Decide whether the photograph should remain a window, become a tiny cutout, or fill the canvas and be interrupted.
+The family may range from mostly empty paper to an almost full photographic landscape. Its consistency comes from hierarchy, flat colour, small type, analog reproduction, and precise restraint—not from using the same amount of empty space every time.
 
-Do not improve a weak photograph through realism or restoration. Improve it through selection, scale, placement, and context.
+Ignore screenshot UI: buttons, expand/refresh icons, profile names, red corner marks, white app margins, status bars, and social-media overlays. Do not reproduce rounded app-card clipping unless the user asks for it.
 
-When multiple photographs are supplied, assign roles rather than blending everything evenly. Use one as the primary structure; use others for a secondary crop, silhouette, colour sample, texture, or emotional counterpoint. Avoid literal montage grids unless requested.
+## Prompt compiler
 
-## Choose one composition system
+Compile only instructions that become visible pixels. Every final prompt must answer the following questions in this order.
 
-### Quiet image window
+### 1. Canvas
 
-Place a wide or compact photographic crop within a much larger muted field. Balance it with two to four pieces of micro-notation placed far apart.
+- vertical 4:5 poster
+- flat orthographic view
+- full-frame paper or ink surface
+- no external border, mockup, frame, or cast shadow
 
-### Field and figure
+If the user explicitly requests another aspect ratio, keep all other geometry proportional.
 
-Use one large flat or subtly textured colour mass with a very small human, bench, object, or silhouette near an edge or boundary.
+### 2. Layout recipe
 
-### Fractured landscape
+Choose exactly one of the four recipes below. Do not combine recipes.
 
-Let the photograph occupy much of the canvas, then replace, mask, or recolour selected regions with one or two flat colour blocks. Add one thin frame or offset grid.
+### 3. Source anchor
 
-### Specimen plate
+Identify one strongest source fact: flock, person, bench, horizon, shoreline, object, gesture, facade, shadow, or relationship. Make it the only primary image event. A weak photo is improved by selection and context, not restoration.
 
-Combine one contained image with a small run of colour swatches, one title word, and a short definition or archival note.
+### 4. Photographic treatment
 
-### Threshold crop
+Preserve the anchor as recognisably photographic or printed-photographic. Use decisive crop, grainy cutout, faded offset reproduction, halftone, xerox softness, desaturation, softened edges, or selective flat recolouring. Never repaint the full photograph.
 
-Use a horizon, architectural edge, shadow, shoreline, or body crop as a dividing boundary between two large fields. Add one tiny figure or notation at the transition.
+### 5. Colour logic
 
-Choose the system that reveals the source most effectively. Do not force the same layout on every photograph.
+Use one recipe-appropriate dominant field and no more than three principal hues. Preferred family: warm cream, oatmeal, dusty blue-grey, grey-green, olive, indigo-black, faded cobalt, burnt orange, and softened charcoal. Colour must be opaque or nearly flat; avoid gradients and digital pastel haze.
 
-## Control scale and space
+### 6. Typography
 
-- Use strong scale contrast: expansive field versus small image, vast landscape versus tiny figure, or full bleed versus fine notation.
-- Allow the photograph to be very small, medium, or nearly full canvas. Size follows the chosen system, never a fixed percentage.
-- Make large quiet areas intentional through colour, grain, boundaries, and precise placement—not decorative filling.
-- Prefer asymmetry and off-axis placement. Center only when the result feels like an archival plate.
-- Let elements approach an edge, disappear under a mask, or sit unusually low or high.
-- Preserve the source ratio by default; adapt to a requested poster, phone, square, book, or print format.
+Use one short verified title or word and up to three metadata notes such as a real date, place, time, sequence, initials, or brief definition. Use restrained serif, neutral grotesk, or monospaced/typewriter lettering. Most type must remain small. Do not invent foreign text, coordinates, dates, signatures, or quotes.
 
-## Use colour as structure
+### 7. Reproduction surface
 
-- Choose one dominant muted field: warm paper, dusty stone, grey green, olive, faded blue, charcoal, or deep navy.
-- Use the field plus one or two supporting colours and one optional accent.
-- Prefer solid or nearly solid masses over gradients.
-- Recolour one photographic region when it strengthens abstraction: sea, sky, ground, wall, or shadow may become flat colour.
-- Use saturated orange, red, acid green, or ultramarine only as a controlled interruption.
+Specify matte absorbent stock, warm paper tooth, offset or risograph grain, softened blacks, faded ink, subtle halftone, restrained dust, and slight misregistration. Texture must follow the fields and photograph rather than appear as uniform digital noise.
 
-## Preserve photographic evidence
+### 8. Hard avoids
 
-- Keep at least one element recognisably photographic unless full abstraction is requested.
-- Crop decisively; do not merely place the untouched photo on a background.
-- Allow grainy, photocopied, desaturated, high-contrast, cutout, or screen-printed treatment.
-- Use a tiny human figure when scale, solitude, waiting, or distance matters.
-- Do not turn the whole photograph into watercolor, gouache, anime, or smooth digital illustration.
+End every prompt with the relevant negative constraints from this file.
 
-## Apply analog print texture
+## Four fixed layout recipes
 
-Use paper tooth, offset grain, halftone, photocopy noise, faded ink, slight colour misregistration, dust, or worn edges. Integrate texture with forms and fields instead of applying uniform fake noise. Let blacks soften and whites warm while keeping crops and typography intentional.
+### Recipe A — Low photographic strip
 
-## Use typography as notation
+Use when the source contains a flock, repetition, skyline, movement, horizon, street sequence, or wide environmental rhythm.
 
-- Use one title word or short phrase, plus optional microtext such as date, sequence, initials, coordinates, or a brief definition.
-- Prefer restrained serif, neutral grotesk, monospaced index type, or very quiet handwriting.
-- Keep most text small; use large type only when it becomes the single graphic event.
-- Align notation to fields and image boundaries or place it deliberately at a distance.
-- Verify spelling and meaning. Never invent foreign text, dates, or coordinates for atmosphere.
-- Avoid motivational quotes, long poetry, ornate scripts, and generic slogans.
+- warm cream or oatmeal paper covers the canvas
+- approximately **65%–78%** of the poster remains quiet paper
+- one horizontal photographic strip occupies **22%–32%** of poster height and **78%–90%** of poster width
+- place the strip in the lower-middle or lower third, not against the edge
+- place two or three isolated micro-notes far apart in the upper and middle field
+- keep the photograph cool, faded, grainy, and low-to-medium contrast
+- no extra illustration, swatches, or second image
 
-When exact text cannot be rendered reliably, generate the composition first and add verified typography in a separate editing pass.
+### Recipe B — Central specimen plate
 
-## Use geometric intervention sparingly
+Use when the source contains one object, artwork, bird, building fragment, portrait detail, still life, or conceptual motif.
 
-Choose at most one family: thin offset frame, one or two divisions, tonal swatches, one masked region, a narrow image strip, or a single interrupting block. Keep lines fine and blocks decisive. Avoid decorative grids, UI panels, and infographic structure.
+- one dusty grey-green, faded blue, stone, or warm paper field covers the poster
+- approximately **58%–75%** remains visually quiet
+- one framed or paper-edged image plate occupies **20%–34%** of the poster area near the optical centre
+- the plate may contain one photographic crop plus up to four small tonal swatches attached to one side
+- place one lowercase title immediately below or slightly overlapping the plate
+- add only one short definition or archival line below the title
+- use subdued photography; one colour inside the plate may remain stronger
+- no scattered labels elsewhere
 
-## Maintain sophistication
+### Recipe C — Monumental field with tiny figure
 
-- Make one strange but controlled decision: unexpected scale, unusually low placement, abrupt colour replacement, extreme crop, distant text, or a tiny figure against a vast field.
-- Keep everything else calm.
-- Prefer ambiguity over explanation and precision over ornament.
-- Vary composition across a series while keeping grain, restraint, palette logic, and notation consistent.
+Use when the source includes one or two people, a bench, chair, animal, vehicle, tree, or small silhouette with emotional scale potential.
 
-## Exclude reference-capture artifacts
+- warm cream paper is the base
+- one large flat rectangular or slightly irregular colour field occupies **48%–64%** of the canvas, mainly in the upper half
+- use olive, moss, faded blue, muted red, charcoal, or another single source-derived hue
+- isolate one tiny photographic figure/object cluster occupying **2.5%–7%** of the canvas
+- place it exactly on or just across the lower boundary of the large field
+- retain a small source-derived ground/shadow notch if it improves the join
+- use no title by default; allow only one tiny caption or initials near a lower corner
+- the tiny figure must remain photographic, not cartooned or redrawn
 
-When references are screenshots, ignore app controls, expand icons, refresh buttons, profile names, white page margins, red corner marks, and other interface overlays unless UI reproduction is explicitly requested.
+### Recipe D — Fractured photographic landscape
 
-## Avoid
+Use when the source is a landscape, sea, architecture, road, mountain, large interior, or scene with strong planes.
 
-- photo-to-watercolor filtering or full-scene painted imitation
-- scrapbook collage, cute doodles, stickers, decorative tape, or diary clutter
-- mandatory hand drawing on every output
-- multiple equal-sized image tiles
-- generic centered photo with title underneath
-- large empty space with no tension, boundary, grain, or notation
-- dense corporate grids or infographic layouts
-- glossy enhancement, HDR, bokeh, or cinematic grading
-- arbitrary foreign text, fake signatures, watermarks, logos, or imitation of a named living artist
+- the photographic scene occupies **72%–92%** of the poster
+- preserve one dominant horizon, shoreline, wall, path, or structural axis
+- replace one or two broad source regions with flat colour; together they occupy **18%–42%** of the canvas
+- use one high-impact field such as burnt orange, deep indigo, olive, cream, or dusty blue
+- keep one very small photographic human or object, when present, as a scale marker
+- add one family of hairline geometry only: one offset rectangle or two thin divisions
+- allow at most one micro-label aligned to a frame edge
+- maintain coarse offset-print or archival magazine reproduction rather than glossy photography
 
-## Quality check
+## Recipe selection
 
-Confirm that the output reads as an experimental editorial poster; one field dominates; one photographic event remains recognisable and decisively transformed; scale contrast creates tension; colour is structural and limited; notation is correct; print texture feels embedded; interventions have a clear role; screenshot artifacts are absent; and the result feels quiet, enigmatic, tactile, and sophisticated. Revise if any check fails.
+Select by source structure, not at random:
+
+- repetition or wide motion → Recipe A
+- isolated object or image-within-image → Recipe B
+- person/object with scale potential → Recipe C
+- strong environmental planes → Recipe D
+
+If two recipes seem possible, choose the one that requires less invention and preserves the strongest real source fact. For a batch, deliberately rotate compatible recipes; do not default every image to a tiny central plate.
+
+When multiple photographs are supplied, use one as the primary anchor. A second may contribute one crop, silhouette, texture, or colour sample inside the selected recipe. Never create a split screen, equal grid, before/after pair, or dense montage unless explicitly requested.
+
+## Fixed prompt shape
+
+Write the final generation prompt as exactly four compact paragraphs:
+
+1. canvas, paper/field, selected recipe, exact visual proportions, and placement
+2. source anchor, decisive crop, photographic treatment, and source details that must remain recognisable
+3. palette, verified typography, optional geometry, and analog reproduction defects
+4. mood plus hard avoids
+
+Use concrete visual wording. Do not include analysis, source paths, rule names, explanations, checklists, or alternative layouts in the final prompt. Never ask the image model to choose the composition.
+
+## Generation workflow
+
+1. Inspect the source and record only: strongest source fact, dominant axis, usable palette, emotional temperature, and exact user-supplied text.
+2. Choose one recipe using the selection rules.
+3. Fill every prompt field and compile the four-paragraph prompt.
+4. Generate the raster image with the built-in image-generation capability.
+5. Inspect the output at full size and thumbnail size.
+6. Regenerate once with stricter wording if any hard failure occurs:
+   - it looks like a filtered photograph instead of a designed print
+   - the chosen recipe geometry is not visible
+   - the photographic anchor disappeared or became an illustration
+   - typography is large, promotional, excessive, or nonsensical
+   - colour became multicoloured, pastel, glossy, or weak
+   - texture looks digital, 3D, cinematic, or like a paper mockup
+   - screenshot UI entered the art
+7. Return the generated image, the exact prompt used, and the recipe name.
+
+If exact lettering is important and generation distorts it, generate with reserved text space, then add the verified typography in a separate editing pass before delivery.
+
+## Negative constraints
+
+Always avoid:
+
+- watercolor, gouache painting, pencil illustration, cute doodles, stickers, tape, scrapbook, or notebook clutter
+- full-scene painted imitation or generic photo filter
+- generic centered photo with a conventional headline below
+- multiple equal images, mood-board grids, dense collage, or scattered decorative fragments
+- large advertising headline, logo, CTA, brand campaign, magazine cover, or corporate infographic
+- glossy mockup, floating paper, border shadow, hard studio light, cinematic lighting, depth of field, HDR, 3D, neon, or cyberpunk
+- smooth vector minimalism, clean UI white, perfect digital gradients, or sterile branding
+- anime, kawaii, cartoon, fashion-editorial drama, or stock-photo polish
+- long text, motivational quotation, arbitrary foreign writing, fake metadata, fake signature, watermark, or copied artist mark
+- interface buttons, social-media chrome, screenshot margins, or app overlays
+
+## Quality gate
+
+Before delivery, confirm every item:
+
+- Reference-Locked Standard Mode was used.
+- The output is a flat vertical 4:5 printed poster unless another ratio was requested.
+- Exactly one of Recipes A–D is clearly visible.
+- Recipe geometry and approximate proportions are respected.
+- One photographic source fact remains recognisable.
+- One spatial gesture dominates; secondary elements do not compete.
+- The palette contains no more than three principal hues.
+- Typography is sparse, small, verified, and editorial rather than promotional.
+- Analog print grain is embedded in paper, ink, and photography.
+- Scale, crop, boundary, or colour replacement creates one controlled strange decision.
+- No watercolor, cute hand-drawing, scrapbook, generic template, glossy photo treatment, or screenshot UI appears.
+- The poster belongs visually with all four references at thumbnail size.
+- The image was actually generated and inspected.
+
+Revise before delivery if any item fails.
+
+## Output format
+
+````markdown
+**生成图**
+
+![Quiet Diary poster](absolute-image-path-or-rendered-image)
+
+**版式**
+
+Recipe [A/B/C/D] — [recipe name]
+
+**最终 Prompt**
+
+```text
+[exact final prompt]
+```
+````
