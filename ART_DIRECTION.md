@@ -1,15 +1,15 @@
 # Quiet Diary Illustration
 
-## Art Direction Manual · Version 3.0
+## Art Direction Manual · Version 4.0
 
-> A photograph becomes a poster through selection, scale, and interruption.
+> Preserve what it is. Replace how it was seen.
 
-Quiet Diary Illustration is a reference-locked experimental editorial poster system. Its visual identity comes from four recurring relationships: quiet paper surrounding a photographic strip; a small specimen plate on a muted field; a tiny photographic figure meeting a monumental colour plane; or a landscape interrupted by flat colour and hairline geometry.
+Quiet Diary Illustration treats photography as raw material rather than finished composition. A source image is dismantled into a few identity-bearing parts, stripped of its original horizon and perspective, then rebuilt through radical scale changes, flat colour, photographic fragments, paper space, and analog print texture.
 
-Every poster preserves photographic evidence. It does not repaint the source. Cropping, isolation, scale contrast, colour replacement, sparse notation, and analog reproduction make an ordinary image feel newly seen.
+The viewer should recognise a place, object, or gesture without seeing the original photograph reproduced. A roof may become a monumental silhouette. A building may survive only as a small gold fragment. A rock may become larger than the architecture. A reflection may become a vertical strip. Meaning stays; spatial order changes.
 
-The work is vertical, flat, matte, tactile, and restrained. Cream, dusty blue-grey, grey-green, olive, indigo, charcoal, faded cobalt, and burnt orange form the core palette. Typography is small, verified, and archival. Paper tooth, halftone, faded ink, xerox softness, and slight misregistration keep the surface physical.
+The work remains quiet, editorial, tactile, and precise. Warm paper, indigo-black, olive, dusty blue-grey, antique gold, faded cobalt, burnt orange, small verified type, halftone, offset grain, xerox wear, and slight misregistration form the visual language.
 
-Sophistication comes from one precise strange decision and restraint everywhere else. The poster may be mostly paper or mostly photograph, but it never becomes decorative, cute, glossy, promotional, or generic.
+Minimalism comes from decisive removal and altered relationships—not from shrinking a complete photo into empty space. Sophistication comes from one radical transformation supported by restraint everywhere else.
 
-Consistency is measured at thumbnail scale: one dominant gesture, one photographic event, compact colour, sparse notation, and unmistakable printed material character.
+The final test is simple: the poster should belong to the source, but the original photograph should not be recoverable from it.
