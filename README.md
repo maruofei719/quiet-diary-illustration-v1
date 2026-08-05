@@ -2,7 +2,7 @@
 
 > Create images that feel remembered rather than recreated.
 
-Quiet Diary Illustration is an open visual system for transforming photographs into restrained watercolor diary pages. It preserves the place, framing, and emotional focus of a source image while simplifying visual noise into paper, pigment, pencil, handwriting, and generous negative space.
+Quiet Diary Illustration is an open visual system for recomposing any photograph—even an ordinary or flawed snapshot—into an elevated minimal handmade poster. It extracts one memorable motif, rebuilds the composition with generous paper space, and combines selective pigment, visible pencil or ink, and integrated handwriting.
 
 ## What this repository contains
 
@@ -21,8 +21,8 @@ The art direction explains **why** the work looks and feels this way. The skill 
 Copy this repository into your Codex skills directory, then invoke it by name:
 
 ```text
-Use $quiet-diary-illustration-v1 to transform this photograph.
-Keep the original aspect ratio and do not add Chinese text.
+Use $quiet-diary-illustration-v1 to recompose this photograph as a minimal handmade poster.
+Keep the original aspect ratio, isolate one motif, and include one short handwritten English line.
 ```
 
 ### With another image-capable model
@@ -34,15 +34,15 @@ Attach a photograph, provide the contents of `SKILL.md` as the style instruction
 - fewer diary elements
 - preserve every architectural landmark
 
-The source photograph remains the authority for composition and identity.
+The source photograph remains the authority for identity and emotion, but not for framing. The system may crop, isolate, enlarge, shift, or omit material to create a stronger poster.
 
 ## Core principles
 
-1. Preserve what makes the memory recognisable.
-2. Remove detail before removing atmosphere.
+1. Extract one memorable motif instead of reproducing the full photograph.
+2. Rebuild the composition as a poster rather than applying a watercolor filter.
 3. Let empty paper participate in the composition.
-4. Keep colour muted, materials visible, and marks imperfect.
-5. Make every output feel like a page from the same notebook.
+4. Keep hand-drawn lines, selective pigment, and integrated handwriting visible.
+5. Make every output feel intentional, minimal, and part of the same notebook.
 
 For the complete philosophy, read [`ART_DIRECTION.md`](ART_DIRECTION.md). For generation rules and the quality checklist, read [`SKILL.md`](SKILL.md).
 
