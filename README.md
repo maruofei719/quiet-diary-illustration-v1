@@ -2,7 +2,7 @@
 
 > Make the familiar feel newly seen.
 
-Quiet Diary Illustration is an open visual system for transforming one or more photographs—even ordinary or flawed snapshots—into restrained experimental editorial posters. It combines a dominant colour field, decisive photographic cropping, extreme scale contrast, sparse notation, controlled geometry, and tactile analog print grain.
+Quiet Diary Illustration is a reference-locked system for transforming one or more photographs—even ordinary or flawed snapshots—into restrained experimental editorial posters. A fixed prompt compiler and four source-matched layout recipes keep the results visually connected and repeatable.
 
 ## Repository contents
 
@@ -17,8 +17,8 @@ Quiet Diary Illustration is an open visual system for transforming one or more p
 Install this repository as a skill, then invoke:
 
 ```text
-Use $quiet-diary-illustration-v1 to transform these photographs into a restrained experimental editorial poster.
-Use one dominant field, decisive photographic cropping, sparse verified notation, one controlled geometric intervention, and tactile analog print grain.
+Use $quiet-diary-illustration-v1 in Reference-Locked Standard Mode.
+Analyse these photographs, select exactly one compatible Recipe A–D, compile the fixed four-paragraph prompt, generate the poster, inspect it against the quality gate, and return the image, recipe, and exact prompt.
 ```
 
 ## Core principles
@@ -33,7 +33,7 @@ The system deliberately avoids full-scene watercolor conversion, scrapbook styli
 
 ## Status
 
-Version 2.0 reframes the project as an experimental editorial poster system while retaining its quiet, tactile, memory-led identity.
+Version 3.0 adds a deterministic prompt compiler, four fixed composition recipes, measurable geometry, source-based recipe selection, and a regenerate-on-failure quality gate.
 
 ## License
 
